@@ -1,0 +1,40 @@
+body,
+html {
+  margin: 0;
+  background-color:#E1D9D7;
+}
+
+h1 {
+  font-size: 3.7em;
+  font-family: 'Kaushan Script', cursive;
+  color: #14336c;
+}
+
+h2 {
+  font-size: 20px;
+  font-family: 'Gill Sans', cursive;
+  color: #14336c;
+}
+
+
+
+.main  {
+  margin-left: 25px;
+  margin-top:  30px;
+}
+
+#mendal {
+  width: 17%;
+  margin-top: 30px;
+}
+
+.more {
+  font-size: 1.5em;
+  font-family: 'Kaushan Script', cursive;
+  color: #14336c;
+  margin-left: 75%;
+}
+.keremcan {
+  background-color: #d3d3d3;
+  width: 100%; 
+}
